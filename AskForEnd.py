@@ -1,4 +1,4 @@
-from Library.InputCheck import *     # Import the custom library for checking the input
+from InputCheck import *     # Import the custom library for checking the input
 
 
 '''
@@ -33,3 +33,7 @@ def AskEnd(config: dict):
         path += start[0]
         config["save"] = [path, start[1]]                                                            # Set the file's path
     return
+
+
+
+lol bomba
